@@ -34,7 +34,7 @@ O **Bing Rewards Automator Pro** é uma ferramenta de automação inteligente de
 ### Para Usuários (Executável)
 1. Baixe a versão mais recente em Download abaixo.
 2. Extraia o arquivo `.zip`.
-3. Execute o `Bing_Rewards_Automator.exe`.
+3. Execute o aplicativo.
 4. Configure sua API Key na aba **Configurações** e clique em Salvar.
 
 ## 📥 Download
