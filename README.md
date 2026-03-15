@@ -1,0 +1,1 @@
+# bing-rewards-automator-IA
