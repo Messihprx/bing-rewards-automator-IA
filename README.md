@@ -17,6 +17,7 @@ O **Bing Rewards Automator Pro** é uma ferramenta de automação inteligente de
 * **⏱️ Countdown Real-time:** Contagem regressiva visual na interface entre as pesquisas.
 * **🛡️ Tecla de Emergência:** Atalho global (padrão `ESC`) para encerrar o processo instantaneamente.
 * **💾 Persistência de Dados:** Salva automaticamente suas configurações de API e preferências.
+* **✈️ Liberdade:** Deixe o código rodando enquanto faz outras coisas no computador.
 
 ---
 
